@@ -12,11 +12,11 @@
 	<groupId>com.cg</groupId>
 	<artifactId>Online-Job-Portal</artifactId>
 	<version>1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>OnlineJobPortal</name>
 	<description>Sprint 1 project on Online Job portal</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
